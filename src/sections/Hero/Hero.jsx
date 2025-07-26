@@ -1,13 +1,13 @@
 import React from 'react';
 import styles from './HeroStyles.module.css';
-import heroImg from '../../assets/hero-img.png';
+import heroImg from '../../assets/heroimg.jpeg';
 import sun from '../../assets/sun.svg';
 import moon from '../../assets/moon.svg';
 import githubLight from '../../assets/github-light.svg';
 import githubDark from '../../assets/github-dark.svg';
 import LinkedinLight from '../../assets/linkedin-light.svg';
 import LinkedinDark from '../../assets/linkedin-dark.svg';
-import CV from '../../assets/cv.pdf';
+import CV from '../../assets/sangam-resume.pdf';
 import { useTheme } from '../../common/ThemeContext';
 
 function Hero() {
