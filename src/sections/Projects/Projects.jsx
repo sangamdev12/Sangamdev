@@ -13,9 +13,9 @@ function Projects() {
            p = "Streaming app"
            />
 
-           <ProjectCard src={viberr} link='https://github.com/sangamdev12'
+           <ProjectCard src={viberr} link='https://github.com/sangamdev12/My-ToDo-Application'
            h3 = "ToDo App"
-           p = "Taskmanager app"
+           p = "A React-based weather forecast application using OpenWeather API.,"
            />
 
            <ProjectCard src={viberr} link='https://github.com/sangamdev12'
