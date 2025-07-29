@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './HeroStyles.module.css';
-import heroImg from '../../assets/hero-img.png';
+import heroImg from '../../assets/heroImg.jpeg';
 import sun from '../../assets/sun.svg';
 import moon from '../../assets/moon.svg';
 import githubLight from '../../assets/github-light.svg';
@@ -28,10 +28,10 @@ function Hero() {
             <h2>Software Developer</h2>
 
             <span>
-                <a href='https://github.com/' target='_blank'>
+                <a href='https://github.com/sangamdev12' target='https://github.com/sangamdev12'>
                 <img src={githubIcon} alt='github icon'/>
                 </a>
-                <a href='https://linkedin.com/' target='_blank'>
+                <a href='https://www.linkedin.com/in/sangam-regmi-2249a228b' target='https://www.linkedin.com/in/sangam-regmi-2249a228b'>
                 <img src={LinkedinIcon} alt='Linkedin icon'/>
                 </a>
             </span>
