@@ -11,6 +11,8 @@
 }
 
 
+
+
 a{
     width: fit-content;
     text-decoration: none;
@@ -22,7 +24,9 @@ a:hover{
     transform: scale(1.05);
 }
 
+
 }
+
 
 .projectsContainer{
     display: flex;

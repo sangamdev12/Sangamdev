@@ -10,12 +10,12 @@ function Projects() {
         <div className={styles.projectsContainer}>
            <ProjectCard src={viberr} link='https://github.com/sangamdev12'
            h3 = "viberr"
-           p = "Streaming app"
+           description = "Streaming app"
            />
 
            <ProjectCard src={viberr} link='https://github.com/sangamdev12/My-ToDo-Application'
            h3 = "ToDo App"
-           p = "A React-based weather forecast application using OpenWeather API.,"
+           p = "Task manager"
            />
 
            <ProjectCard src={viberr} link='https://github.com/sangamdev12'
