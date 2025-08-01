@@ -70,6 +70,8 @@
 
 .description {
   max-width: 24ch;
+  margin: 0 auto;
+  text-align: center;
 }
 
 .info {
@@ -88,6 +90,7 @@
       max-width: 350px;
       width: 350px;
     }
+
   }
 }
 
