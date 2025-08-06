@@ -89,9 +89,10 @@
     .hero {
       max-width: 350px;
       width: 350px;
+ 
     }
-
   }
+
 }
 
 @media (width >= 1400px) {

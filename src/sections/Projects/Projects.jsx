@@ -11,8 +11,8 @@ function Projects() {
       <div className={styles.projectsGrid}>
         <ProjectCard
           src={viberr}
-          h3 = "Viberr"
-          p="Streaming app for music & video."
+          h3 = "Weather app"
+          p="A simple weather app to show the weather details of the places."
           liveLink="https://example.com/viberr"
           codeLink="https://github.com/sangamdev12/viberr"
         />
@@ -25,7 +25,7 @@ function Projects() {
         />
         <ProjectCard
           src={viberr}
-          h3="SPR"
+          h3="Siccor, paper, rock"
           p="A gaming app built with JS and HTML5 Canvas."
           liveLink="https://example.com/spr"
           codeLink="https://github.com/sangamdev12/spr"
