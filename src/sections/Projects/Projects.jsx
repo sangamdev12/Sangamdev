@@ -2,6 +2,8 @@
 import React from 'react';
 import styles from './ProjectsStyles.module.css';
 import viberr from '../../assets/viberr.png';
+import Todo from '../../assets/todoIcon.png'
+import weather from '../../assets/weather.png'
 import ProjectCard from '../../common/ProjectCard';
 
 function Projects() {
@@ -10,14 +12,14 @@ function Projects() {
       <h1 className={styles.heading}>Projects</h1>
       <div className={styles.projectsGrid}>
         <ProjectCard
-          src={viberr}
+          src={weather}
           h3 = "Weather app"
           p="A simple weather app to show the weather details of the places."
           liveLink="https://example.com/viberr"
           codeLink="https://github.com/sangamdev12/viberr"
         />
         <ProjectCard
-          src={viberr}
+          src={Todo}
           h3="Todo App"
           p="A simple to-do list built with React."
           liveLink="https://mygolist.netlify.app/"
